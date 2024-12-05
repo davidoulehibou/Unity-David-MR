@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "David MR.sln"
+    "dotnet.defaultSolution": "Unity-David-MR.sln"
 }
